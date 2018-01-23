@@ -1,4 +1,4 @@
-# Raspberry Pi "Video Synth" - CV controlled image slideshow
+# Raspberry Pi Video Synth - CV controlled image slideshow
 
 A little video synth, or CV(control voltage) controlled image slideshow for the Raspberry Pi.
 Built to use in conjunction with the 3trinsRGB1c video synth (or any other video synth), 
